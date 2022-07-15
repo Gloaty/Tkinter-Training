@@ -1,1 +1,1 @@
-# Tkinter-Training
+# Training
